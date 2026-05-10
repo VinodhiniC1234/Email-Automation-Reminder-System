@@ -1,0 +1,4 @@
+name,email,status
+John,john@example.com,"FAILED: (334, b'UGFzc3dvcmQ6')"
+Alice,alice@example.com,"FAILED: (334, b'UGFzc3dvcmQ6')"
+Bob,bob@example.com,"FAILED: (334, b'UGFzc3dvcmQ6')"

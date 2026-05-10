@@ -1,0 +1,9 @@
+2026-05-10 18:40:11,026 - ERROR - Failed for john@example.com
+2026-05-10 18:40:12,868 - ERROR - Failed for alice@example.com
+2026-05-10 18:40:14,845 - ERROR - Failed for bob@example.com
+2026-05-10 18:41:45,768 - ERROR - Failed john@example.com
+2026-05-10 18:41:47,453 - ERROR - Failed alice@example.com
+2026-05-10 18:41:49,126 - ERROR - Failed bob@example.com
+2026-05-10 18:45:17,851 - ERROR - Failed: john@example.com
+2026-05-10 18:45:20,481 - ERROR - Failed: alice@example.com
+2026-05-10 18:45:23,244 - ERROR - Failed: bob@example.com
